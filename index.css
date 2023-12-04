@@ -1,0 +1,159 @@
+
+.collapse-navbar-collapse{
+    margin-left: 18px;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    /* font-family: 'Permanent Marker', cursive; */
+    font-family: 'Hedvig Letters Sans', sans-serif;
+font-family: 'Hedvig Letters Serif', serif;
+font-family: 'Lilita One', sans-serif;
+font-family: 'Lobster', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+}
+#about:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(89, 86, 86);
+}
+#service:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(89, 86, 86);
+}
+#skills:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(89, 86, 86);
+}
+#experience:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(89, 86, 86);
+}
+#contact:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(89, 86, 86);
+}
+.navbar-brand{
+    /* font-family: 'Hedvig Letters Sans', sans-serif;
+font-family: 'Oswald', sans-serif; */
+font-family: 'Permanent Marker', cursive;
+
+}
+#hello{
+    margin-top: 100px;
+    margin-left: 40px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#faisal{
+    margin-top: 30px;
+    margin-left: 25px;
+    /* font-family: 'Permanent Marker', cursive; */
+    font-family: 'Permanent Marker', cursive;
+}
+#a{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: 'Permanent Marker', cursive;
+}
+#link{
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 50px;
+    height: 50px;
+}
+#facebook{
+    margin-top: 30px;
+    /* margin-left: 18px; */
+    width: 60px;
+    height: 60px;
+}
+#instagram{
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+}
+#touch{
+    size: 40px;
+    color: black;
+    background-color: yellow;
+    border-radius: 30px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+#touch:hover{
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 30px;
+    text-decoration: underline;
+}
+#touch:active{
+    background-color: orange;
+}
+.about{
+    /* border: 30px black solid; */
+    height: 400px;
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 100px;
+    text-align: justify;
+}
+#aboutp{
+    margin-top: 10px;
+}
+table,tr,td{
+   
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: justify;
+}
+#myservice{
+    text-align: center;
+}
+#servicep{
+    height: 50px;
+    width: 500px;
+    margin-left: 400px;
+    
+    text-align: justify;
+    text-align: center;
+}
+#web{
+   
+    height: 200px;
+    width: 200px;
+}
+#react{
+    height: 150px;
+    width: 150px;
+}
+
+.images{
+    margin-left: 130px;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.images1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.myskills{
+    margin-top: 30px;
+}
+.range{
+    margin-top: 30px;
+    margin-left: 150px;
+    width: 1000px;
+    height: 300px;
+}
+#experiencep{
+    width: 500px;
+    margin-left: 400px;
+    
+    text-align: justify;
+}
